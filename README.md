@@ -1,2 +1,2 @@
 # Excel-Assignments
-this assignment contain data cleaning and transformation
+This assignment contain data exploration, cleaning and transformation by using excel
